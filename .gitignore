@@ -1,3 +1,4 @@
 .env
 .python-version
 /pokemon-env
+__pycache__
